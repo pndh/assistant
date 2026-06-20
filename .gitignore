@@ -223,3 +223,9 @@ __marimo__/
 .venv/
 *.log
 .env
+agent_memory.json
+chat_bridge.json
+chat_history.json
+saved_session_state.json
+scratch/
+launcher_error.log
